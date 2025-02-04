@@ -1,18 +1,14 @@
-<table>
-  <div align="center">
+<table align="center">
+  <div >
     <td>
         <img src="https://media1.tenor.com/m/_NCgJr160TAAAAAC/chaves-chavo.gif" width="200" height="200" >
     </td>
     <td >
       <img src="https://github-readme-stats.vercel.app/api?username=Leozitos96&theme=aura_dark&show_icons=true" >
     </td>
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-    </picture>
   </div>
 </table>
+      <img alt="github-user-contribution.svg" src="github-user-contribution.svg" align="center"/>
 <table>
   <div>
   <div>
